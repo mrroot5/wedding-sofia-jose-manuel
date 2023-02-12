@@ -1,0 +1,29 @@
+{
+  "name": "Boda Sofia y José Manuel",
+  "short_name": "Boda Sofi & JM",
+  "icons": [
+    {
+      "src": "/apple-touch-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/apple-touch-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "##8EAEBA",
+  "background_color": "##8EAEBA",
+  "display": "standalone"
+}

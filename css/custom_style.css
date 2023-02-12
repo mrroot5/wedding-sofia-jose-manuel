@@ -1,0 +1,19 @@
+.countdown_custom>div {
+    color: #000;
+}
+
+@media (max-width: 991px) {
+    .custom_uppercase {
+        font-size: 18pt !important;
+        font-weight: 400 !important;
+    }
+}
+
+@media (min-width: 1400px) {
+    .custom_uppercase {
+        font-family: inherit !important;
+        font-size: inherit !important;
+        font-weight: inherit !important;
+        text-transform: uppercase;
+    }
+}
