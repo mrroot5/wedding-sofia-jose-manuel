@@ -16,7 +16,12 @@ var hero_full_screen = true;                    //If true, the hero section will
 
 //HERO BACKGROUND SLIDESHOW IMAGES
 var slidehow_images = [
-    "https://picsum.photos/seed/header/1920/1080"
+    "./images/couple/159sofia-and-jose-manuel.jpg",
+    "./images/couple/291sofia-and-jose-manuel.jpg",
+    "./images/couple/293sofia-and-jose-manuel.jpg",
+    "./images/couple/317sofia-and-jose-manuel.jpg",
+    "./images/couple/54sofia-and-jose-manuel.jpg",
+    "./images/couple/83sofia-and-jose-manuel.jpg"
 ];
 
 //TIMELINE PARALLAX
